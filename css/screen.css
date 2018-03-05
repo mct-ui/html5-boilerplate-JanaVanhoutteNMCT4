@@ -10,6 +10,10 @@ html {
   font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
   color: #111;
   padding: 24px 24px 0;
+  body {
+    max-width: 42em;
+    margin: 0 auto;
+  }
 }
 
 /*
